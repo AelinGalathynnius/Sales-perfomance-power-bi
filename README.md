@@ -30,15 +30,8 @@ It focuses on turning raw data into clear, visual reports that help identify tre
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here — very important for GitHub)*
+<img width="779" height="433" alt="dashboard preview" src="https://github.com/user-attachments/assets/80b68713-8531-40ac-8ff8-cf5c537878c4" />
 
-Example:
-
-* Overview Page
-* Sales Trends Page
-* Customer Analysis Page
-
-👉 Tip: Take screenshots in Power BI and save inside `/assets` or `/screenshots`
 
 ---
 
