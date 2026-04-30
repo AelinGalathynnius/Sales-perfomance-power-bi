@@ -26,19 +26,7 @@ It focuses on turning raw data into clear, visual reports that help identify tre
 * Data Modeling
 * Data Visualization
 
----
 
-## 📸 Dashboard Preview
-
-*(Add screenshots here — very important for GitHub)*
-
-Example:
-
-* Overview Page
-* Sales Trends Page
-* Customer Analysis Page
-
-👉 Tip: Take screenshots in Power BI and save inside `/assets` or `/screenshots`
 
 ---
 
