@@ -26,7 +26,19 @@ It focuses on turning raw data into clear, visual reports that help identify tre
 * Data Modeling
 * Data Visualization
 
+---
 
+## 📸 Dashboard Preview
+
+*(Add screenshots here — very important for GitHub)*
+
+Example:
+
+* Overview Page
+* Sales Trends Page
+* Customer Analysis Page
+
+👉 Tip: Take screenshots in Power BI and save inside `/assets` or `/screenshots`
 
 ---
 
@@ -118,3 +130,30 @@ sales-performance-dashboard/
 ```
 
 ---
+
+## 📄 Resume Bullet Points (Use This!)
+
+You can copy these directly into your CV:
+
+* Built an interactive Power BI dashboard to track sales performance, revenue trends, and customer insights.
+* Cleaned and transformed raw data using Power Query to create structured datasets for analysis.
+* Developed KPI reports and visualizations to support business decisions and performance tracking.
+* Analyzed customer and product data to identify trends, top performers, and growth opportunities.
+
+---
+
+## 👩‍💻 About Me
+
+Aspiring Data Analyst focused on:
+
+* SQL
+
+* Power BI
+
+* Tableau
+
+* Python
+
+* LinkedIn: Add your link
+
+* GitHub: Add your link
