@@ -30,7 +30,8 @@ It focuses on turning raw data into clear, visual reports that help identify tre
 
 ## 📸 Dashboard Preview
 
-<img width="779" height="433" alt="dashboard preview" src="https://github.com/user-attachments/assets/80b68713-8531-40ac-8ff8-cf5c537878c4" />
+<img width="762" height="428" alt="dash" src="https://github.com/user-attachments/assets/72b7e83d-dd66-4943-999f-dc179d14f205" />
+
 
 
 ---
