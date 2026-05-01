@@ -125,29 +125,4 @@ sales-performance-dashboard/
 
 ---
 
-## 📄 Resume Bullet Points (Use This!)
 
-You can copy these directly into your CV:
-
-* Built an interactive Power BI dashboard to track sales performance, revenue trends, and customer insights.
-* Cleaned and transformed raw data using Power Query to create structured datasets for analysis.
-* Developed KPI reports and visualizations to support business decisions and performance tracking.
-* Analyzed customer and product data to identify trends, top performers, and growth opportunities.
-
----
-
-## 👩‍💻 About Me
-
-Aspiring Data Analyst focused on:
-
-* SQL
-
-* Power BI
-
-* Tableau
-
-* Python
-
-* LinkedIn: Add your link
-
-* GitHub: Add your link
